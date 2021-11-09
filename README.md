@@ -1,5 +1,5 @@
 # RSA-example
-test file
+How to run file: <br>
  ```go run main.go```
 
 ## Hệ mật mã khóa đối xứng
