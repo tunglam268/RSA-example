@@ -1,3 +1,3 @@
 # RSA-example
 test file
- ```g
+ ```go run main.go```
