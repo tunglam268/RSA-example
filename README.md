@@ -5,5 +5,4 @@ How to run file: <br>
 - Digital Signature : **go run DSAExample/main.go**
 
 ## Golang library encryption algorithms
-```SHA-1``` : "crypto/sha1" <br>
-```MD-5``` : "crypto/md5" <br>
+ **https://pkg.go.dev/crypto@go1.17.3**
